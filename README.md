@@ -2,7 +2,8 @@
   
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=808080&background=E360FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Isabella+%3A%5D">
-  <p>A web and mobile developer from Brazil. </p>
+  <p>A web and mobile developer from Brazil.<br> Contact me at laschi.isabella@gmail.com or <a href="https://www.linkedin.com/in/isabella-laschi/">LinkedIn</a>.</p>
+  
   <details align=center>
     <summary>Work Experience and Skills</summary>
     <br>
