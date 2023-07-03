@@ -6,8 +6,6 @@
     Contact me at laschi.isabella@gmail.com or <a href="https://www.linkedin.com/in/isabella-laschi/" target="_blank">LinkedIn</a>.</p>
   <!-- streak -->
   <img src="https://streak-stats.demolab.com?user=laschisabella&border_radius=5&background=343434&stroke=808080&ring=CBAC08&fire=CBAC08&currStreakNum=FAFCFA&sideNums=FAFCFA&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&border=757575">
-  <!-- top languages -->
-  <img height="250" src="https://github-readme-stats-k1p2t449q-laschisabella.vercel.app/api/top-langs?username=laschisabella&hide_title=true&bg_color=343434&border_color=979797&border_radius=5&text_color=FAFCFA">
 </div>
 
 
